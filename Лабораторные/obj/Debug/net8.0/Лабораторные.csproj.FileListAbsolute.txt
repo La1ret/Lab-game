@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\ОАиП\Лабораторные\obj\Debug\net8.0\Лабораторные.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\ОАиП\Лабораторные\obj\Debug\net8.0\Лабораторные.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\ОАиП\Лабораторные\obj\Debug\net8.0\Лабораторные.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\ОАиП\Лабораторные\obj\Debug\net8.0\Лабораторные.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ОАиП\Лабораторные\bin\Debug\net8.0\Лабораторные.exe
+C:\Users\Пользователь\source\repos\ОАиП\Лабораторные\bin\Debug\net8.0\Лабораторные.deps.json
+C:\Users\Пользователь\source\repos\ОАиП\Лабораторные\bin\Debug\net8.0\Лабораторные.runtimeconfig.json
+C:\Users\Пользователь\source\repos\ОАиП\Лабораторные\bin\Debug\net8.0\Лабораторные.dll
+C:\Users\Пользователь\source\repos\ОАиП\Лабораторные\bin\Debug\net8.0\Лабораторные.pdb
+C:\Users\Пользователь\source\repos\ОАиП\Лабораторные\obj\Debug\net8.0\Лабораторные.dll
+C:\Users\Пользователь\source\repos\ОАиП\Лабораторные\obj\Debug\net8.0\refint\Лабораторные.dll
+C:\Users\Пользователь\source\repos\ОАиП\Лабораторные\obj\Debug\net8.0\Лабораторные.pdb
+C:\Users\Пользователь\source\repos\ОАиП\Лабораторные\obj\Debug\net8.0\Лабораторные.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\ОАиП\Лабораторные\obj\Debug\net8.0\ref\Лабораторные.dll
